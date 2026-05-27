@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/DotNetSettings.Sample.ConsoleApp/DotNetSettings.Sample.ConsoleApp.csproj" />
+    <Project Path="samples/DotNetSettings.Sample.Worker/DotNetSettings.Sample.Worker.csproj" />
+    <Project Path="samples/DotNetSettings.Sample/DotNetSettings.Sample.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/DotNetSettings/DotNetSettings.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DotNetSettings.Tests/DotNetSettings.Tests.csproj" />
+  </Folder>
+</Solution>
